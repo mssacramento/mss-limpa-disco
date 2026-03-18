@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyd
+*.pyo
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+pythonenv.*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Projeto
+icone.ico.bak
+*.log
+*.tmp
+
+# Pip
+pip-log.txt
+pip-delete-this-directory.txt
+requirements.txt.bak
+
+# PyInstaller
+*.manifest
+*.spec
+dist/
+build/
